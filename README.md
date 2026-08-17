@@ -1,3 +1,3 @@
-# BlockAid
+# HEC IA
 
-A hand-coded HTML/CSS website for a startup concept using blockchain to bring transparency and traceability to public aid distribution
+Website built in HTML/CSS for HEC IA, the school's student AI association, showcasing its new consulting branch : augmented consulting services that offers AI-driven automation.
